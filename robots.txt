@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ebootookie.acl2017.org/sitemap.xml
